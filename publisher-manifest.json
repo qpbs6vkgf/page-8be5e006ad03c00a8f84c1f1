@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "2c4def6ecb7043237b0b17ac",
+  "owner": "qpbs6vkgf",
+  "repo": "page-8be5e006ad03c00a8f84c1f1",
+  "title": "芒果网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8be5e006ad03c00a8f84c1f1",
+      "a": "芒果网络",
+      "b": "",
+      "entity": "芒果网络",
+      "brand": "芒果网络",
+      "separator": "",
+      "path": "index.html",
+      "hash": "8ba1d0f7edc4dd5a1231eb57bce9fefaa8cefe73ce53c849d14bbd6d9e144f9f",
+      "content": {
+        "keyword1": "芒果网络",
+        "keyword2": "",
+        "primary_entity": "芒果网络",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "芒果网络提供官方机场订阅与VPN网络加速服务，支持多端客户端下载，覆盖流媒体解锁、游戏加速与跨境办公场景，欢迎访问官网了解套餐与使用说明。",
+          "AI_DESCRIPTION": "芒果网络提供官方机场订阅与VPN网络加速服务，支持多端客户端下载，覆盖流媒体解锁、游戏加速与跨境办公场景，欢迎访问官网了解套餐与使用说明。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}html,body{margin:0;padding:0;overflow-x:hidden}body{font-family:\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#F7F3E9;color:#1A2E24;font-size:16px;line-height:1.7}a{color:#1B4332;text-decoration:underline}header{background:#1B4332;color:#F7F3E9;padding:14px 16px}header a{color:#D8F3DC;text-decoration:none;margin-right:12px}header .brand{font-weight:700;font-size:1.15rem;margin-right:18px;color:#F7F3E9}nav{display:flex;flex-wrap:wrap;gap:8px;align-items:center}.wrap{max-width:980px;margin:0 auto;padding:20px 16px}h1{font-size:1.85rem;line-height:1.3;color:#1B4332;margin:8px 0 12px}h2{font-size:1.35rem;color:#2D6A4F;margin:28px 0 12px;padding-bottom:6px;border-bottom:2px solid #95D5B2}h3{font-size:1.08rem;color:#40916C;margin:16px 0 8px}.lead{font-size:1.05rem;margin:0 0 16px}.cols{display:flex;flex-wrap:wrap;gap:16px}.col{flex:1 1 280px;background:#FFFdf7;border:1px solid #D8E2DC;padding:14px 16px}.plans{display:flex;flex-wrap:wrap;gap:12px}.plan{flex:1 1 250px;background:#FFFdf7;border:1px solid #B7E4C7;padding:16px}.plan.featured{border:2px solid #1B4332;background:#E9F5EE}.badge{display:inline-block;background:#1B4332;color:#F7F3E9;font-size:0.75rem;padding:2px 8px;margin-bottom:8px}.price{font-size:1.45rem;font-weight:700;color:#1B4332;margin:6px 0}.annual{font-size:0.92rem;color:#2D6A4F}.plan ul{margin:8px 0 0;padding-left:18px}details{background:#FFFdf7;border:1px solid #D8E2DC;padding:10px 12px;margin:8px 0}summary{font-weight:600;color:#1B4332}ol{padding-left:20px}.note{background:#E9F5EE;border-left:4px solid #2D6A4F;padding:10px 12px;margin:12px 0}footer{background:#1B4332;color:#D8F3DC;padding:20px 16px;margin-top:24px}footer a{color:#D8F3DC}footer h2{color:#F7F3E9;border-bottom-color:#40916C}.box{background:#244C3A;padding:12px;margin:8px 0}.muted{font-size:0.9rem;opacity:0.95}</style><header><div class=\"wrap\"><nav><span class=\"brand\">芒果网络</span><a href=\"#intro\">简介</a><a href=\"#scenes\">场景</a><a href=\"#plans\">套餐</a><a href=\"#guide\">说明</a><a href=\"#download\">下载</a><a href=\"#faq\">问答</a></nav></div></header><main class=\"wrap\"><h1>芒果网络官方网站</h1><p class=\"lead\">芒果网络是面向个人与团队的网络加速与机场订阅服务。本页介绍品牌定位、使用场景、套餐对比、操作步骤以及客户端下载入口，帮助你在官网完成订阅与接入。</p><section id=\"intro\"><h2>品牌简介</h2><div class=\"cols\"><article class=\"col\"><h3>我们做什么</h3><p>芒果网络提供稳定的跨境网络加速能力，将机场订阅与多端客户端结合，覆盖日常访问、流媒体与游戏线路。品牌名强调清晰、可预期的连接体验，而不是堆砌无法核验的口号。</p><p>服务侧重点包括节点可用性、订阅导入便利性，以及基础版到团队版的流量与设备分层。用户可按月或按年选择，年付对应更低的综合成本。</p></article><article class=\"col\"><h3>官方身份与使用边界</h3><p>本站为芒果网络官方网站信息页，用于说明套餐、下载指引与常见问题。请通过官网公示渠道获取订阅与客户端，避免来源不明的安装包或二次转发链接。</p><p>网络加速工具需在当地法律法规允许范围内使用。请勿将服务用于未授权访问、侵权传播或任何违法用途。芒果网络不对用户的具体访问内容承担责任。</p></article></div></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"cols\"><article class=\"col\"><h3>工作与学习</h3><p>远程会议、代码仓库、学术数据库与云文档在跨境链路上更容易出现波动。芒果网络将常用办公节点与较干净的线路放在同一订阅下，减少频繁切换配置的成本。</p></article><article class=\"col\"><h3>流媒体与内容访问</h3><p>基础版面向常规站点与基础流媒体；旗舰版强调全节点原生解锁取向，适合需要更稳定片源与地区内容的用户。实际可播清单会随上游版权策略变化，连接后请以客户端内节点标签为准。</p></article><article class=\"col\"><h3>游戏与实时应用</h3><p>旗舰版包含 IPLC 取向的游戏加速优化，适合对延迟更敏感的对战与登录场景。团队版提供更高带宽与定制路由空间，便于工作室或多成员同时在线。</p></article></div></section><section id=\"plans\"><h2>套餐对比</h2><p>以下为官网在售分层。价格按自然月展示，年付为一次性年费口径。请以结算页最终确认金额为准。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><p class=\"badge\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div><p class=\"note\">流量按成功转发的实际用量累计，周期结束未用完部分不结转。同时在线台数按有效连接会话统计。节点池会例行维护，维护窗口将在客户端公告中提示。</p></section><section id=\"guide\"><h2>操作说明</h2><h3>从订阅到连上</h3><ol><li>在官网选择基础版、旗舰版或团队版，完成支付后进入用户中心。</li><li>复制机场订阅地址。该地址用于客户端定时拉取节点，请勿公开分享。</li><li>前往本页下载专区获取对应系统客户端，或使用已支持订阅的通用客户端导入。</li><li>导入订阅后更新节点列表，按延迟或用途选择线路并连接。</li><li>如需分流，可在客户端开启规则模式，让国内站点直连、跨境流量走加速通道。</li></ol><h3>日常维护建议</h3><p>网络波动时先更新订阅再切换邻近区域节点。游戏场景优先选择带游戏或 IPLC 标记的线路。若某条线路连续失败，可提交工单并附上大致时段与终端类型，旗舰版与团队版会进入优先队列。</p></section><section id=\"download\"><h2>客户端下载</h2><p>芒果网络官方下载仅提供安装说明与校验提示。请在官网登录后的下载专区获取与当前订阅匹配的版本，避免第三方修改包。</p><div class=\"cols\"><article class=\"col\"><h3>桌面端</h3><p>Windows 与 macOS 提供官方客户端入口，适合需要系统代理或虚拟网卡模式的用户。Linux 用户可使用兼容订阅的命令行或图形客户端，导入同一机场订阅即可。</p><p><a href=\"#download\">前往官网下载专区（桌面端）</a></p></article><article class=\"col\"><h3>移动端</h3><p>Android 与 iOS 通过官方指引安装。iOS 侧请使用系统允许的应用获取方式。移动端同样支持订阅更新、节点测速与分应用代理。</p><p><a href=\"#download\">前往官网下载专区（移动端）</a></p></article></div><p>导入完成后，建议先连接香港或新加坡等近距离节点验证可用性，再根据流媒体或游戏需求切换专用线路。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>芒果网络是机场还是单一 VPN 客户端？</summary><p>芒果网络同时提供机场订阅与官方客户端。订阅用于下发节点，客户端负责连接与分流。你也可以把订阅导入常用的兼容客户端，不必绑定单一软件。</p></details><details><summary>如何完成官网下载与首次连接？</summary><p>登录官网后进入下载专区选择系统版本，安装后粘贴用户中心中的订阅链接并更新。选择延迟较低的节点连接，浏览器访问国际站点即可验证。若系统代理未生效，检查是否授予了必要的网络权限。</p></details><details><summary>套餐流量和设备数如何计算？</summary><p>流量统计成功转发的数据量。基础版每月 100GB、三台设备；旗舰版每月 300GB、五台设备；团队版每月 1000GB、二十台设备。同一账号在超出会话上限时，新设备需要踢出旧会话或升级套餐。</p></details><details><summary>旗舰版的流媒体解锁和游戏加速如何理解？</summary><p>旗舰版面向全节点原生流媒体解锁，并包含 IPLC 取向的游戏优化线路。能否播放取决于节点出口与内容平台策略，客户端会用标签区分通用、流媒体与游戏节点。遇到地区内容失败时，切换同区域备用节点通常比反复重连更有效。</p></details><details><summary>团队版适合什么样的组织？</summary><p>团队版提供更高流量、更多同时在线设备、VIP 高带宽节点、定制路由和专属客户经理。适合工作室、跨境协作小组或需要统一出口策略的小团队。路由定制需通过工单说明网段与分流目标，不在自助面板即时生效。</p></details><details><summary>订阅泄露了怎么办？</summary><p>立刻在用户中心重置订阅链接，使旧地址失效，然后在所有设备重新导入。不要把订阅二维码发到公开群组。重置不会改变套餐剩余流量，但会断开仍使用旧订阅的客户端。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><section id=\"ads\"><h2>广告</h2><div class=\"box\"><p>合作展示位：跨境办公工具与安全浏览器扩展介绍。广告内容与套餐售卖相互独立，请自行判断必要性。</p><p><a href=\"#ads\">了解合作展示规范</a></p></div></section><section id=\"sitemap\"><h2>网站地图</h2><p><a href=\"#intro\">品牌简介</a> · <a href=\"#scenes\">使用场景</a> · <a href=\"#plans\">套餐对比</a> · <a href=\"#guide\">操作说明</a> · <a href=\"#download\">客户端下载</a> · <a href=\"#faq\">常见问题</a> · <a href=\"#friends\">友情链接</a></p></section><section id=\"friends\"><h2>友情链接</h2><p><a href=\"#\">网络加速资料馆</a> · <a href=\"#\">客户端配置笔记</a> · <a href=\"#\">跨境办公手册</a> · <a href=\"#\">流媒体区域说明</a></p></section><p class=\"muted\">芒果网络官网 · 官方网站信息与官方下载指引 · 使用前请阅读当地法规与服务条款</p></div></footer>",
+          "hash": "7e3c15899552e9ebd358f183f04edc011f8bfecc38266504340f4232670dc0c7",
+          "seo": {
+            "title": "芒果网络官网 - VPN梯子网络加速与客户端下载",
+            "keywords": "芒果网络,芒果网络VPN,芒果网络机场,网络加速器,梯子客户端,官网下载,机场订阅",
+            "description": "芒果网络提供官方机场订阅与VPN网络加速服务，支持多端客户端下载，覆盖流媒体解锁、游戏加速与跨境办公场景，欢迎访问官网了解套餐与使用说明。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "4pwxgb.cn",
+    "host": "p-61cc439925.4pwxgb.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "4pwxgb.cn",
+      "url": "https://4pwxgb.cn/",
+      "label": "佛跳墙",
+      "apex": "4pwxgb.cn",
+      "kind": null,
+      "identity": "gmnmcmrqt/page-80d5eeea5332ca3ff7bf94b5"
+    },
+    {
+      "host": "szyansuwl.com",
+      "url": "https://szyansuwl.com/",
+      "label": "芒果网络",
+      "apex": "szyansuwl.com",
+      "kind": null,
+      "identity": "neejxxpus/page-cdfa54f10fa155651098e3a1"
+    },
+    {
+      "host": "topoilwell.com",
+      "url": "https://topoilwell.com/",
+      "label": "芒果网络",
+      "apex": "topoilwell.com",
+      "kind": null,
+      "identity": "ktndvbp/page-2112198a182c523235bc679c"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "3ad77a5cd0b868b1bd46f062e2b93cda0a2131215f8efbb851ada82a1a5506f2",
+    "sitemap.xml": "e554a595da12fa1aba14efd09892f78eb2eb8d7518618a54fee85c2cf672388c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1a6e423926ccf6a8cb615ff67a0655b5a4a469e70cabca0148bfab1cf7d5d33a",
+    "robots.txt": "dbae6fe0a9276c0de6c16e84e82aa9c39897e20e3b06aa2a724275132be591b3",
+    "bd4f6ba26136839d50f40788a00359af.txt": "3e554172ba732856ac0813d144b3d6fb3f7a5114d59bcbde596650e6709111c6"
+  },
+  "revision": "07e31bc97f327a63599046ec72816f5081628df542167cdd98471c7ba8c9773c"
+}
